@@ -1,7 +1,7 @@
 # 💫 About Me:  
 👋 Hi there, I'm Sriraj Thiruchety!<br>🎓 I'm an Information Technology undergraduate at Vasavi College of Engineering (2022–2026), passionate about building tech that makes a difference.<br><br>💻 My interests lie in:<br><br>🧠 Artificial Intelligence & Machine Learning<br>🌐 Web Development<br>⚙️ Competitive Programming<br>📡 Smart city planning & automated monitoring systems<br>🌱 AgriTech & Smart City innovations<br>📊 Data-driven health solutions for early disease detection<br><br>🌱 Projects I’m proud of:<br>PCOS Detection using ML for BioInformatics<br>Pneumonia detection with CNNs & EfficientNet<br>Automatic Road Extraction and Damage Assessment<br><br>📬 Let's connect:<br><br>💼 https://www.linkedin.com/in/sriraj-thiruchety/<br>📧 srirajty@gmail.com
  
-
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sriraj__rockzz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sriraj-thiruchety) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@srirajty) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srirajty@gmail.com) 
 
